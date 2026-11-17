@@ -1,6 +1,5 @@
 import asyncio
 import logging
-from aiogram.types import BotCommand
 from config import bot, dp
 from handlers import commands, echo
 
